@@ -8,7 +8,6 @@ import logging
 import shutil
 # библиотека для работы с SFTP
 import paramiko
-# импорт глобальных переменных из конфига
 from config import SFTP_SERVER, SFTP_USER, SFTP_PASSWORD, SFTP_REMOTE_DIR
 
 
